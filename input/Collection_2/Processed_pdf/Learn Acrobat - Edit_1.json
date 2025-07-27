@@ -1,0 +1,20 @@
+{
+  "title": "",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "Edit text in a PDF",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "1. Select Edit in the global bar.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Edit images or objects in a PDF",
+      "page": 12
+    }
+  ]
+}

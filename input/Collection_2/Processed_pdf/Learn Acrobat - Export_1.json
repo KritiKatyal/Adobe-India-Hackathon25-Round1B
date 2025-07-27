@@ -1,0 +1,60 @@
+{
+  "title": "",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Export",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Recover the last saved version",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "File format op\ufffdons for PDF export in Acrobat",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "PDF to Microso\ufffd Word conversion se\ufffdngs",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to RTF",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to HTML Web Page",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to Microso\ufffd Excel",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to PostScript or Encapsulated PostScript (EPS)",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to Text and XML 1.0",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Select and copy text and images",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Convert selected content to other formats",
+      "page": 29
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Fill and Sign PDF Forms",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "Fill and Sign PDF Forms",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Types of PDF forms",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Fill in PDF Forms",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Auto-Complete forms (interactive forms only)",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Change flat forms to fillable (Acrobat Pro)",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Save forms",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Print forms",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Clear unsaved form entries",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Remove your signature or initials",
+      "page": 17
+    }
+  ]
+}

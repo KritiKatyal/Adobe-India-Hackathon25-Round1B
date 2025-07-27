@@ -1,0 +1,25 @@
+{
+  "title": "Note: If you select Retain Some Layers In The Selected Page, you\u2019ll be prompted to",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "Application-specific PDFMaker settings",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Create PDFs by printing to file",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Adobe PDF printing preferences (Windows)",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Set Adobe PDF printer properties (Windows)",
+      "page": 16
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "title": "1. Make the desired changes in the app. Bear in mind the following:",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "Extract pages from a PDF",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Split PDFs into multiple documents",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Move or copy pages in a PDF",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Delete or replace pages in a PDF",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Renumber pages in a PDF",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Edit Scanned PDFs",
+      "page": 13
+    }
+  ]
+}
